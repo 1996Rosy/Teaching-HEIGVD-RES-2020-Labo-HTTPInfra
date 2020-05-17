@@ -37,6 +37,28 @@ The third objective is to practice our usage of **Docker**. All the components o
 * You are able to explain what you do in the Dockerfile.
 * You are able to show where the apache config files are located (in a running container).
 * You have **documented** your configuration in your report.
+Repo :
+Updated!
+
+Démo :
+sudo docker build -t res/apache_php
+sudo docker kill [container]
+sudo docker run -d -p 9090:80 res/apache_php
+sudo docker image rm --force [image] (si jamais)
+Ne pas oublier de rafraichir la page pour mettre a jour les changements après build et run. :D
+
+Web template:
+Changed !
+
+Dockerfile :
+What do I do in a dockerfile ?
+I import the configuration of the image I want to use.
+
+Where the apache config files are located??
+Ask or rewatch? I did not get it..
+
+Doc:
+I have chosen the default http apache.
 
 ## Step 2: Dynamic HTTP server with express.js
 
