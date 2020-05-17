@@ -1,0 +1,14 @@
+{
+  "name": "students",
+  "version": "0.1.0",
+  "description": "Just for a quick demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rosy",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.1.5"
+  }
+}
