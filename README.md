@@ -38,7 +38,9 @@ The third objective is to practice our usage of **Docker**. All the components o
 * You are able to show where the apache config files are located (in a running container).
 * You have **documented** your configuration in your report.
 
-For my configuration I chose the default : httpd apache.
+**DOCUMENTATION**
+
+For my configuration I chose the default : httpd apache. version : 7.2
 
 ## Step 2: Dynamic HTTP server with express.js
 
@@ -55,6 +57,12 @@ For my configuration I chose the default : httpd apache.
 * You cannot return the same content as the webcast (you cannot return a list of people).
 * You don't have to use express.js; if you want, you can use another JavaScript web framework or event another language.
 * You have **documented** your configuration in your report.
+
+
+**DOCUMENTATION**
+
+For my configuration I chose the default : express.js
+TYhe dynamic random content is a list of countries with their symbolic animals and their national dish (invented randomly)
 
 
 ## Step 3: Reverse proxy with apache (static configuration)
@@ -75,6 +83,11 @@ For my configuration I chose the default : httpd apache.
 * You have **documented** your configuration in your report.
 
 
+**DOCUMENTATION**
+
+For my configuration I chose the default I did exactly like in the videos.
+
+
 ## Step 4: AJAX requests with JQuery
 
 ### Webcasts
@@ -88,6 +101,10 @@ For my configuration I chose the default : httpd apache.
 * You are able to prove that AJAX requests are sent by the browser and you can show the content of th responses.
 * You are able to explain why your demo would not work without a reverse proxy (because of a security restriction).
 * You have **documented** your configuration in your report.
+
+**DOCUMENTATION**
+
+For my configuration I used the version 7.2 of apache thus my apache2-foreground is the updated version made for apache 7.2.
 
 ## Step 5: Dynamic reverse proxy configuration
 
@@ -107,6 +124,10 @@ For my configuration I chose the default : httpd apache.
 * You are able to do an end-to-end demo with a well-prepared scenario. Make sure that you can demonstrate that everything works fine when the IP addresses change!
 * You are able to explain how you have implemented the solution and walk us through the configuration and the code.
 * You have **documented** your configuration in your report.
+
+**DOCUMENTATION**
+
+For my configuration I chose the default I did exactly like in the videos.
 
 ## Additional steps to get extra points on top of the "base" grade
 
