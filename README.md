@@ -104,7 +104,7 @@ For my configuration I chose the default I did exactly like in the videos.
 
 **DOCUMENTATION**
 
-For my configuration I used the version 7.2 of apache thus my apache2-foreground is the updated version made for apache 7.2.
+For my configuration, the AJAX requests use the dynamic content I created at step 2 and generates a list of countries and their animals.
 
 ## Step 5: Dynamic reverse proxy configuration
 
@@ -127,7 +127,7 @@ For my configuration I used the version 7.2 of apache thus my apache2-foreground
 
 **DOCUMENTATION**
 
-For my configuration I chose the default I did exactly like in the videos.
+For my configuration I used the version 7.2 of apache thus my apache2-foreground is the updated version made for apache 7.2.
 
 ## Additional steps to get extra points on top of the "base" grade
 
